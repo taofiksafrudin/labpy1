@@ -46,6 +46,8 @@ Kita install terlebih dahulu
  
 •	isi name repostorynya :labpy2
 •	lalu klik create repository
+![8](https://user-images.githubusercontent.com/56193251/66638030-69488a80-ec3e-11e9-8892-96e43ddaefd7.PNG)
+
  
 9.	Menambahkan Remote Repository 
 •	Untuk menambahkan remote repository server, kita ketik perintah (git remote add origin [url]) 
@@ -53,10 +55,13 @@ Git  remote add origin https://github.com/taofiksafrudin/labpy2.git
 10.	Push (mengirim perubahan ke server)
 •	Untuk melakukan perubahan kita perlu menggunakan perintah (git push –u origin master)   
 •	Perintah ini akan menyuruh kita memasukan username dan password pad akun github
+![9](https://user-images.githubusercontent.com/56193251/66638358-fa1f6600-ec3e-11e9-8ea5-932a6cc5e148.PNG)
  
 11.	Melihat hasil pada server repository
 •	Buka halaman github.com, arahkan pada repositorynya
 •	Maka perubahan akan terlihat pada halamn tersebut
+![10](https://user-images.githubusercontent.com/56193251/66638489-3bb01100-ec3f-11e9-9d00-bcb7984302a3.PNG)
+
  
 12.	Clone repository
 •	Untuk melakukan cloning, gunakan printah (git clone [url
