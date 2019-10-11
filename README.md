@@ -28,16 +28,21 @@ Kita install terlebih dahulu
 •	Menambahkan  File baru pada Repository
 •	Kita akan mencoba membuat satu file README.md (text file) dengan menuliskan perintah (echo “#lathan 1 >> README.md)
 •	Untuk menambahkan file tersebut kita kita gunakan perintah (git add README.md)
+![5](https://user-images.githubusercontent.com/56193251/66636382-4b2d5b00-ec3b-11e9-85f8-8a067a32d2f0.PNG)
+
  
 •	Commit (menyimpan pe
 •	rubahan ke database)
 •	Untuk menyimpan perubahan tersebut kita ketikan perintah (git commit –m “komentar commit”)
 •	Perubhan berasil tersimpan
+![6](https://user-images.githubusercontent.com/56193251/66636739-fb9b5f00-ec3b-11e9-980c-1cb0f380d29f.PNG)
+
  
 8.	Membuat repository server
 •	Pertama kita akan membuka website https://github.com
 •	kita harus membuat akun terlebih dahulu di github
 •	pada halaman github, klik tombol star a project, atau klik new Repository pada icon (+)
+![7](https://user-images.githubusercontent.com/56193251/66636912-40bf9100-ec3c-11e9-8e5a-af4f34977bb8.PNG)
  
 •	isi name repostorynya :labpy2
 •	lalu klik create repository
